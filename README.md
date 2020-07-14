@@ -1,4 +1,4 @@
-# Bitcoin_ticker
+# Bitcoin_Ticker
 
  Crypto currency price checking app 
 
